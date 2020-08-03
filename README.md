@@ -11,8 +11,9 @@ In the terminal run:
 
 - Run ./a.out in the terminal (You can replace 'a' with any name that you have given to the executable)
 
-- The following Prompt will show up. Please enter a valid file name and ensure it is in the same directory as the executable
-  Enter file name:
+- The following Prompt will show up.(Please enter a valid file name and ensure the input file is in the same directory as the executable)
+
+- Enter file name:
 
 - You will see the lines being read and the corresponding binary codes being generated show up on the terminal
 
